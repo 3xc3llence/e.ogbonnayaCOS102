@@ -1,0 +1,19 @@
+1. Start.
+2. Wake up.
+3. Check the time.
+4. If the time is >= 10am:
+    5. Go to the bathroom,
+    6. Take a shower,
+    7. Pray,
+    8. Go back to the room to have my breakfast.
+9. Else:
+   10. Go back to sleep.
+11. Arrange my bed.
+12. Do my homework and read for class.
+13. Go for class.
+14. Play ball.
+15. Bath.
+16. Eat.
+17. Sleep.
+14. End.
+
